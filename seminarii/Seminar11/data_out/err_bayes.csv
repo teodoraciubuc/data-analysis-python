@@ -1,0 +1,10 @@
+No.,class,Predictie LDA,Predictie Bayes
+157,Normal,Hernia,Hernia
+3,Hernia,Normal,Normal
+160,Normal,Spondylolisthesis,Spondylolisthesis
+194,Normal,Normal,Spondylolisthesis
+4,Hernia,Hernia,Spondylolisthesis
+179,Normal,Hernia,Hernia
+227,Normal,Normal,Spondylolisthesis
+23,Hernia,Hernia,Normal
+62,Spondylolisthesis,Normal,Hernia

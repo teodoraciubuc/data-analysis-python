@@ -1,0 +1,6 @@
+,Domeniu,Corporatie,Parteneri,Perioada,Valoare investitie
+Domeniu,True,False,False,True,False
+Corporatie,False,True,True,False,False
+Parteneri,False,True,True,False,False
+Perioada,True,False,False,True,False
+Valoare investitie,False,False,False,False,True
