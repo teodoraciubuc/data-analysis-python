@@ -201,7 +201,6 @@ def histograme(t:pd.DataFrame,variabila,p,titlu="Plot histograme"):
 def f_plot_silhouette(partitie, scoruri_silh, scor_silh, titlu="Plot Silhouette"):
     fig = plt.figure(titlu,figsize=(10, 6))
     ax = fig.add_subplot(1,1,1)
-
     ax.set_title(titlu, fontsize=16)
     clusteri = np.unique(partitie)
     y_lower = 10
