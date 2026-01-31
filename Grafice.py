@@ -1,5 +1,3 @@
-#####Grafice
-# 🟢 CAND FACI GRAFICE -> functii din seminarii
 # Folosesti in functie de cerinta:
 # - corelograma: matrice de corelatii
 # - plot_varianta: criterii PCA (80%, Kaiser, Cattell)
@@ -18,7 +16,7 @@ from scipy.cluster.hierarchy import dendrogram
 
 
 # -------------------------------------------------
-# Corelograma (din Seminar10_1097/grafice.py)
+# Corelograma
 # CAND: ai matrice R (DataFrame) si vrei heatmap
 # -------------------------------------------------
 def corelograma(t:pd.DataFrame,vmin=-1,cmap="RdYlBu",annot=True,titlu="Corelograma"):
@@ -30,7 +28,7 @@ def corelograma(t:pd.DataFrame,vmin=-1,cmap="RdYlBu",annot=True,titlu="Corelogra
 
 
 # -------------------------------------------------
-# Plot varianta (din Seminar10_1097/grafice.py)
+# Plot varianta
 # CAND: dupa PCA, ai alpha si vrei k dupa criterii
 # -------------------------------------------------
 def plot_varianta(alpha:np.ndarray,titlu="Plot varianta componente",
@@ -67,7 +65,7 @@ def plot_varianta(alpha:np.ndarray,titlu="Plot varianta componente",
 
 
 # -------------------------------------------------
-# Plot scoruri / cerc corelatii (din Seminar10_1097/grafice.py)
+# Plot scoruri / cerc corelatii
 # CAND: plot in planul (C1,C2) pt scoruri (instante) sau corelatii (variabile)
 # -------------------------------------------------
 def plot_scoruri_corelatii(
@@ -99,7 +97,7 @@ def plot_scoruri_corelatii(
 
 
 # -------------------------------------------------
-# Harta (din Seminar11_1097/grafice.py)
+# Harta
 # CAND: ai GeoDataFrame cu geometrie + un tabel cu scoruri pe coduri
 # -------------------------------------------------
 def plot_harta(gdf:GeoDataFrame,camp_legatura,
@@ -114,7 +112,7 @@ def plot_harta(gdf:GeoDataFrame,camp_legatura,
 
 
 # -------------------------------------------------
-# Distributii KDE (din Seminar12_1097/grafice.py)
+# Distributii KDE
 # CAND: compari distributii pe clase (hue=y)
 # -------------------------------------------------
 def f_distributii(t:pd.DataFrame,variabila,y,clase,titlu="Distributii"):
@@ -125,7 +123,7 @@ def f_distributii(t:pd.DataFrame,variabila,y,clase,titlu="Distributii"):
 
 
 # -------------------------------------------------
-# Scatter discriminant (din Seminar12_1097/grafice.py)
+# Scatter discriminant
 # CAND: plotezi instante + centroid/grup (tg) in Z1/Z2 (sau alte axe)
 # -------------------------------------------------
 def f_scatter(t:pd.DataFrame,tg:pd.DataFrame,y,clase,
@@ -139,7 +137,7 @@ def f_scatter(t:pd.DataFrame,tg:pd.DataFrame,y,clase,
 
 
 # -------------------------------------------------
-# Ierarhie (din Seminar13_1097/graphics.py)
+# Ierarhie
 # CAND: dupa linkage, vrei dendrograma
 # -------------------------------------------------
 def plot_ierarhie(h:np.ndarray,etichete=None,color_threshold = 0,titlu="Plot Ierarhie"):
@@ -152,7 +150,7 @@ def plot_ierarhie(h:np.ndarray,etichete=None,color_threshold = 0,titlu="Plot Ier
 
 
 # -------------------------------------------------
-# Plot partitie (din Seminar13_1097/graphics.py)
+# Plot partitie
 # CAND: ai scoruri Z (t_z), centroizi (t_gz) + partitia p si vrei scatter pe clusteri
 # -------------------------------------------------
 def plot_partitie(
@@ -177,7 +175,7 @@ def plot_partitie(
 
 
 # -------------------------------------------------
-# Histograme pe clase (din Seminar13_1097/graphics.py)
+# Histograme pe clase
 # CAND: vrei distributia unei variabile pe fiecare cluster/clasa
 # -------------------------------------------------
 def histograme(t:pd.DataFrame,variabila,p,titlu="Plot histograme"):
@@ -197,7 +195,7 @@ def histograme(t:pd.DataFrame,variabila,p,titlu="Plot histograme"):
 
 
 # -------------------------------------------------
-# Silhouette plot (din Seminar13_1097/graphics.py)
+# Silhouette plot
 # CAND: ai coeficienti silhouette pe instante + media si vrei plot pe clusteri
 # -------------------------------------------------
 def f_plot_silhouette(partitie, scoruri_silh, scor_silh, titlu="Plot Silhouette"):
