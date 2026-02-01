@@ -255,3 +255,4 @@ def teste_chi2(x: np.ndarray, alpha=0.01):
             chi2_mat[k, j] = chi2_mat[j, k]
 
     return teste, chi2_mat
+
