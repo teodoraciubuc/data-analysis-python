@@ -43,6 +43,11 @@ X_std = StandardScaler().fit_transform(X)
 
 matrice = hic.linkage(X_std, method="ward")
 print("Matricea:\n", matrice)
+dist = matrice[:, 2]
+dif = np.diff(dist)
+poz = int(np.argmax(dif))
+prag = (dist[poz] + dist[poz + 1]) / 2
+k_opt = X_std.shape[0] - (poz + 1)
 
 #B2
 k = 5
