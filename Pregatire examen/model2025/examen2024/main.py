@@ -7,6 +7,7 @@ df_a = pd.read_csv("a.csv")
 df_Coduri_Localitati = pd.read_csv("Coduri_Localitati.csv")
 df_diversitatea = pd.read_csv("Diversitate.csv")
 
+
 def nan_replace_df(t: pd.DataFrame):
     for c in t.columns:
         if any(t[c].isna()):
