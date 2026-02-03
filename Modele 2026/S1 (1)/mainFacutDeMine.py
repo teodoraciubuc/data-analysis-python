@@ -16,6 +16,7 @@ df_final=df_Diversitate[conditie]
 df_final.to_csv("Cerinta1.csv",index=False)
 print("Gata")
 
+
 #a2
 #merge+groupby in functie de care are mai multe din col
 #avem conditie

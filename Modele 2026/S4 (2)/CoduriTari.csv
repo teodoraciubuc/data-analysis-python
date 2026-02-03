@@ -1,0 +1,251 @@
+CountryID,Country,Continent
+4,"Afghanistan, Islamic Republic of",Asia
+8,"Albania, Republic of",Europe
+10,Antarctica (the territory South of 60 deg S),Antarctica
+12,"Algeria, People's Democratic Republic of",Africa
+16,American Samoa,Oceania
+20,"Andorra, Principality of",Europe
+24,"Angola, Republic of",Africa
+28,Antigua and Barbuda,North_America
+31,"Azerbaijan, Republic of",Europe
+32,"Argentina, Argentine Republic",South_America
+36,"Australia, Commonwealth of",Oceania
+40,"Austria, Republic of",Europe
+44,"Bahamas, Commonwealth of the",North_America
+48,"Bahrain, Kingdom of",Asia
+50,"Bangladesh, People's Republic of",Asia
+51,"Armenia, Republic of",Europe
+52,Barbados,North_America
+56,"Belgium, Kingdom of",Europe
+60,Bermuda,North_America
+64,"Bhutan, Kingdom of",Asia
+68,"Bolivia, Republic of",South_America
+70,Bosnia and Herzegovina,Europe
+72,"Botswana, Republic of",Africa
+74,Bouvet Island (Bouvetoya),Antarctica
+76,"Brazil, Federative Republic of",South_America
+84,Belize,North_America
+86,British Indian Ocean Territory (Chagos Archipelago),Asia
+90,Solomon Islands,Oceania
+92,British Virgin Islands,North_America
+96,Brunei Darussalam,Asia
+100,"Bulgaria, Republic of",Europe
+104,"Myanmar, Union of",Asia
+108,"Burundi, Republic of",Africa
+112,"Belarus, Republic of",Europe
+116,"Cambodia, Kingdom of",Asia
+120,"Cameroon, Republic of",Africa
+124,Canada,North_America
+132,"Cape Verde, Republic of",Africa
+136,Cayman Islands,North_America
+140,Central African Republic,Africa
+144,"Sri Lanka, Democratic Socialist Republic of",Asia
+148,"Chad, Republic of",Africa
+152,"Chile, Republic of",South_America
+156,"China, People's Republic of",Asia
+158,Taiwan,Asia
+162,Christmas Island,Asia
+166,Cocos (Keeling) Islands,Asia
+170,"Colombia, Republic of",South_America
+174,"Comoros, Union of the",Africa
+175,Mayotte,Africa
+178,"Congo, Republic of the",Africa
+180,"Congo, Democratic Republic of the",Africa
+184,Cook Islands,Oceania
+188,"Costa Rica, Republic of",North_America
+191,"Croatia, Republic of",Europe
+192,"Cuba, Republic of",North_America
+196,"Cyprus, Republic of",Europe
+203,Czech Republic,Europe
+204,"Benin, Republic of",Africa
+208,"Denmark, Kingdom of",Europe
+212,"Dominica, Commonwealth of",North_America
+214,Dominican Republic,North_America
+218,"Ecuador, Republic of",South_America
+222,"El Salvador, Republic of",North_America
+226,"Equatorial Guinea, Republic of",Africa
+231,"Ethiopia, Federal Democratic Republic of",Africa
+232,"Eritrea, State of",Africa
+233,"Estonia, Republic of",Europe
+234,Faroe Islands,Europe
+238,Falkland Islands (Malvinas),South_America
+239,South Georgia and the South Sandwich Islands,Antarctica
+242,"Fiji, Republic of the Fiji Islands",Oceania
+246,"Finland, Republic of",Europe
+248,Aland Islands,Europe
+250,"France, French Republic",Europe
+254,French Guiana,South_America
+258,French Polynesia,Oceania
+260,French Southern Territories,Antarctica
+262,"Djibouti, Republic of",Africa
+266,"Gabon, Gabonese Republic",Africa
+268,Georgia,Europe
+270,"Gambia, Republic of the",Africa
+275,"Palestinian Territory, Occupied",Asia
+276,"Germany, Federal Republic of",Europe
+288,"Ghana, Republic of",Africa
+292,Gibraltar,Europe
+296,"Kiribati, Republic of",Oceania
+300,"Greece, Hellenic Republic",Europe
+304,Greenland,North_America
+308,Grenada,North_America
+312,Guadeloupe,North_America
+316,Guam,Oceania
+320,"Guatemala, Republic of",North_America
+324,"Guinea, Republic of",Africa
+328,"Guyana, Co-operative Republic of",South_America
+332,"Haiti, Republic of",North_America
+334,Heard Island and McDonald Islands,Antarctica
+336,Holy See (Vatican City State),Europe
+340,"Honduras, Republic of",North_America
+344,"Hong Kong, Special Administrative Region of China",Asia
+348,"Hungary, Republic of",Europe
+352,"Iceland, Republic of",Europe
+356,"India, Republic of",Asia
+360,"Indonesia, Republic of",Asia
+364,"Iran, Islamic Republic of",Asia
+368,"Iraq, Republic of",Asia
+372,Ireland,Europe
+376,"Israel, State of",Asia
+380,"Italy, Italian Republic",Europe
+384,"Cote d'Ivoire, Republic of",Africa
+388,Jamaica,North_America
+392,Japan,Asia
+398,"Kazakhstan, Republic of",Asia
+400,"Jordan, Hashemite Kingdom of",Asia
+404,"Kenya, Republic of",Africa
+408,"Korea, Democratic People's Republic of",Asia
+410,"Korea, Republic of",Asia
+414,"Kuwait, State of",Asia
+417,Kyrgyz Republic,Asia
+418,Lao People's Democratic Republic,Asia
+422,"Lebanon, Lebanese Republic",Asia
+426,"Lesotho, Kingdom of",Africa
+428,"Latvia, Republic of",Europe
+430,"Liberia, Republic of",Africa
+434,Libyan Arab Jamahiriya,Africa
+438,"Liechtenstein, Principality of",Europe
+440,"Lithuania, Republic of",Europe
+442,"Luxembourg, Grand Duchy of",Europe
+446,"Macao, Special Administrative Region of China",Asia
+450,"Madagascar, Republic of",Africa
+454,"Malawi, Republic of",Africa
+458,Malaysia,Asia
+462,"Maldives, Republic of",Asia
+466,"Mali, Republic of",Africa
+470,"Malta, Republic of",Europe
+474,Martinique,North_America
+478,"Mauritania, Islamic Republic of",Africa
+480,"Mauritius, Republic of",Africa
+484,"Mexico, United Mexican States",North_America
+492,"Monaco, Principality of",Europe
+496,Mongolia,Asia
+498,"Moldova, Republic of",Europe
+499,"Montenegro, Republic of",Europe
+500,Montserrat,North_America
+504,"Morocco, Kingdom of",Africa
+508,"Mozambique, Republic of",Africa
+512,"Oman, Sultanate of",Asia
+516,"Namibia, Republic of",Africa
+520,"Nauru, Republic of",Oceania
+524,"Nepal, State of",Asia
+528,"Netherlands, Kingdom of the",Europe
+530,Netherlands Antilles,North_America
+531,Curacao,North_America
+533,Aruba,North_America
+534,Sint Maarten (Netherlands),North_America
+535,"Bonaire, Sint Eustatius and Saba",North_America
+540,New Caledonia,Oceania
+548,"Vanuatu, Republic of",Oceania
+554,New Zealand,Oceania
+558,"Nicaragua, Republic of",North_America
+562,"Niger, Republic of",Africa
+566,"Nigeria, Federal Republic of",Africa
+570,Niue,Oceania
+574,Norfolk Island,Oceania
+578,"Norway, Kingdom of",Europe
+580,"Northern Mariana Islands, Commonwealth of the",Oceania
+581,United States Minor Outlying Islands,Oceania
+583,"Micronesia, Federated States of",Oceania
+584,"Marshall Islands, Republic of the",Oceania
+585,"Palau, Republic of",Oceania
+586,"Pakistan, Islamic Republic of",Asia
+591,"Panama, Republic of",North_America
+598,"Papua New Guinea, Independent State of",Oceania
+600,"Paraguay, Republic of",South_America
+604,"Peru, Republic of",South_America
+608,"Philippines, Republic of the",Asia
+612,Pitcairn Islands,Oceania
+616,"Poland, Republic of",Europe
+620,"Portugal, Portuguese Republic",Europe
+624,"Guinea-Bissau, Republic of",Africa
+626,"Timor-Leste, Democratic Republic of",Asia
+630,"Puerto Rico, Commonwealth of",North_America
+634,"Qatar, State of",Asia
+638,Reunion,Africa
+642,Romania,Europe
+643,Russian Federation,Europe
+646,"Rwanda, Republic of",Africa
+652,Saint Barthelemy,North_America
+654,Saint Helena,Africa
+659,"Saint Kitts and Nevis, Federation of",North_America
+660,Anguilla,North_America
+662,Saint Lucia,North_America
+663,Saint Martin,North_America
+666,Saint Pierre and Miquelon,North_America
+670,Saint Vincent and the Grenadines,North_America
+674,"San Marino, Republic of",Europe
+678,"Sao Tome and Principe, Democratic Republic of",Africa
+682,"Saudi Arabia, Kingdom of",Asia
+686,"Senegal, Republic of",Africa
+688,"Serbia, Republic of",Europe
+690,"Seychelles, Republic of",Africa
+694,"Sierra Leone, Republic of",Africa
+702,"Singapore, Republic of",Asia
+703,Slovakia (Slovak Republic),Europe
+704,"Vietnam, Socialist Republic of",Asia
+705,"Slovenia, Republic of",Europe
+706,"Somalia, Somali Republic",Africa
+710,"South Africa, Republic of",Africa
+716,"Zimbabwe, Republic of",Africa
+724,"Spain, Kingdom of",Europe
+728,South Sudan,Africa
+732,Western Sahara,Africa
+736,"Sudan, Republic of",Africa
+740,"Suriname, Republic of",South_America
+744,Svalbard & Jan Mayen Islands,Europe
+748,"Swaziland, Kingdom of",Africa
+752,"Sweden, Kingdom of",Europe
+756,"Switzerland, Swiss Confederation",Europe
+760,Syrian Arab Republic,Asia
+762,"Tajikistan, Republic of",Asia
+764,"Thailand, Kingdom of",Asia
+768,"Togo, Togolese Republic",Africa
+772,Tokelau,Oceania
+776,"Tonga, Kingdom of",Oceania
+780,"Trinidad and Tobago, Republic of",North_America
+784,United Arab Emirates,Asia
+788,"Tunisia, Tunisian Republic",Africa
+792,"Turkey, Republic of",Europe
+795,Turkmenistan,Asia
+796,Turks and Caicos Islands,North_America
+798,Tuvalu,Oceania
+800,"Uganda, Republic of",Africa
+804,Ukraine,Europe
+807,"Macedonia, The Former Yugoslav Republic of",Europe
+818,"Egypt, Arab Republic of",Africa
+826,United Kingdom of Great Britain & Northern Ireland,Europe
+831,"Guernsey, Bailiwick of",Europe
+832,"Jersey, Bailiwick of",Europe
+833,Isle of Man,Europe
+834,"Tanzania, United Republic of",Africa
+840,United States of America,North_America
+850,United States Virgin Islands,North_America
+854,Burkina Faso,Africa
+858,"Uruguay, Eastern Republic of",South_America
+860,"Uzbekistan, Republic of",Asia
+862,"Venezuela, Bolivarian Republic of",South_America
+876,Wallis and Futuna,Oceania
+882,"Samoa, Independent State of",Oceania
+887,Yemen,Asia
+894,"Zambia, Republic of",Africa
